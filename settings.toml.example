@@ -1,0 +1,5 @@
+# Copia este archivo como settings.toml en la placa (mismo nombre, sin ".example")
+# y escribe el nombre y la contraseña de tu red WiFi.
+# El settings.toml real NUNCA se sube a GitHub: el .gitignore ya lo excluye.
+WIFI_SSID = "NOMBRE_DE_TU_RED"
+WIFI_PASSWORD = "CONTRASENA_DE_TU_RED"
